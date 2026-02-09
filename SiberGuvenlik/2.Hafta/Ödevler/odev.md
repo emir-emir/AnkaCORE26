@@ -209,7 +209,7 @@ Aşağıdaki soruları **kendi yorumunuzu katarak**, teknik ve hukuki gerekçele
 
 ### 📤 Nasıl Teslim Ederim? (Fork & Pull Request)
 
-Ödevinizi **PDF** formatında (Max. 9-10 sayfa) hazırladıktan sonra aşağıdaki adımları izleyerek profesyonel bir şekilde teslim edin. Unutmayın, Git kullanmak bir mühendisin elidir, koludur.
+Ödevinizi **PDF** formatında **(İdeal: 10-12 Sayfa, Max: 15 Sayfa)** hazırladıktan sonra aşağıdaki adımları izleyerek profesyonel bir şekilde teslim edin. Unutmayın, Git kullanmak bir mühendisin elidir, koludur.
 
 **Dosya Adı Formatı:** `Ad_Soyad_Hafta2.pdf` (Örn: `Ali_Yilmaz_Hafta2.pdf`)
 
